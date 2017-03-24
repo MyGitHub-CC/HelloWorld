@@ -6,5 +6,6 @@ public class TestGit {
 		a = 1;
 		a = 2;
 		System.out.println(a);
+		System.out.println(a+a);
 	}
 }
